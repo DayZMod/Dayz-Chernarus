@@ -11,3 +11,8 @@ class CfgPatches
 		};
 	};
 };
+
+class CfgVehicles
+{
+	#include "Wrecks.hpp"
+};
